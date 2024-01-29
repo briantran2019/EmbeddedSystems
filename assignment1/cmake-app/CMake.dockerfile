@@ -8,7 +8,7 @@ COPY . app/
 
 WORKDIR /app
 
-RUN mkdir /app/build 
+RUN mkdir ./build
 WORKDIR /app/build
 RUN cmake ..
 RUN cmake --build .
