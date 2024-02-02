@@ -8,9 +8,7 @@ COPY . app/
 
 WORKDIR /app
 
-RUN mkdir ./build
 WORKDIR /app/build
 RUN cmake ..
 RUN cmake --build .
-
 CMD ./hello
