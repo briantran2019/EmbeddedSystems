@@ -21,6 +21,7 @@ int main(void) {
             break;
         case 2:
             doufunc();
+            cout << "Goodbye\n";
             break;
         case 3:
             cout << "Quitting\n";
