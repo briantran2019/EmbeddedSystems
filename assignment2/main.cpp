@@ -20,6 +20,7 @@ int main(void) {
             cout << "Goodbye\n";
             break;
         case 2:
+            cou << "You chose decimal arithmetic.\n\n";
             doufunc();
             cout << "Goodbye\n";
             break;
