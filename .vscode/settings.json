@@ -1,4 +1,10 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
-    "cmake.sourceDirectory": "/Users/brian/Documents/EmbeddedSystems/assignment1/cmake-app"
+    "cmake.sourceDirectory": "/Users/brian/Documents/EmbeddedSystems/assignment1/cmake-app",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp"
+    }
 }

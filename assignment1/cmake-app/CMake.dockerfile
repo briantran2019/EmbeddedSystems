@@ -7,8 +7,8 @@ RUN apt-get update && \
 COPY . app/
 
 WORKDIR /app
-
 WORKDIR /app/build
 RUN cmake ..
 RUN cmake --build .
+
 CMD ./hello
