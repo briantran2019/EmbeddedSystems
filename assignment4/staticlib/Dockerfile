@@ -5,17 +5,14 @@ RUN apt-get update && \
     rm -rf /var/lib/texts/*
     
 #create app directory
-COPY . app/
+COPY envsetup.sh ./
+COPY entrypoint.sh ./
+RUN chmod +x envsetup.sh
+RUN chmod +x entrypoint.sh
+RUN ./envsetup.sh
 
 #create build directory and run cmake in it
 WORKDIR /app
-RUN chmod +x envsetup.sh
-RUN ./envsetup.sh
-RUN ./entrypoint.sh
-WORKDIR /app/build
-RUN cmake ..
-RUN cmake --build .
 
 #move to binary directory and run the executable
-WORKDIR /app/bin
-CMD ./maintest
+ENTRYPOINT [ "/entrypoint.sh" ]

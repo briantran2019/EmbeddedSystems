@@ -1,0 +1,13 @@
+/app/build/CMakeFiles/edit_cache.dir
+/app/build/CMakeFiles/rebuild_cache.dir
+/app/build/include/CMakeFiles/edit_cache.dir
+/app/build/include/CMakeFiles/rebuild_cache.dir
+/app/build/src/CMakeFiles/maintest.dir
+/app/build/src/CMakeFiles/edit_cache.dir
+/app/build/src/CMakeFiles/rebuild_cache.dir
+/app/build/src/int_arith_in_c/CMakeFiles/libbarithmetic.so.dir
+/app/build/src/int_arith_in_c/CMakeFiles/edit_cache.dir
+/app/build/src/int_arith_in_c/CMakeFiles/rebuild_cache.dir
+/app/build/src/dou_arith_in_cpp/CMakeFiles/libcpparithmetic.so.dir
+/app/build/src/dou_arith_in_cpp/CMakeFiles/edit_cache.dir
+/app/build/src/dou_arith_in_cpp/CMakeFiles/rebuild_cache.dir

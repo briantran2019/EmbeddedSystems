@@ -1,0 +1,2 @@
+//duo-sdk/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-ar qc liblibcpparithmetic.so.a CMakeFiles/libcpparithmetic.so.dir/add_dou.cpp.o CMakeFiles/libcpparithmetic.so.dir/sub_dou.cpp.o CMakeFiles/libcpparithmetic.so.dir/mul_dou.cpp.o CMakeFiles/libcpparithmetic.so.dir/div_dou.cpp.o
+//duo-sdk/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-ranlib liblibcpparithmetic.so.a
