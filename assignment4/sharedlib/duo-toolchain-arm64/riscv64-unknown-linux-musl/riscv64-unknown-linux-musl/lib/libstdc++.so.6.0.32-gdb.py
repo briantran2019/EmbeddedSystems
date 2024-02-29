@@ -1,1 +1,0 @@
-../../riscv64-unknown-linux-musl/sysroot/lib/libstdc++.so.6.0.32-gdb.py
