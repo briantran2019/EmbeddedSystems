@@ -8,6 +8,7 @@
 
 int main() {
     char input[] = "Hello, World!";
+    int sleep_stats[] = {0};
 
     char *morseTranslation = phraseToTranslate(input);
     if (morseTranslation) {
@@ -15,6 +16,6 @@ int main() {
     } else {
         printf("Error: Unable to translate.\n");
     }
-
+    blink(morseTranslation, sleep_stats);
     return 0;
 }
