@@ -1,0 +1,11 @@
+/root/EmbeddedSystems/morse_code_project/build/CMakeFiles/edit_cache.dir
+/root/EmbeddedSystems/morse_code_project/build/CMakeFiles/rebuild_cache.dir
+/root/EmbeddedSystems/morse_code_project/build/lib/CMakeFiles/TRANSLIB.dir
+/root/EmbeddedSystems/morse_code_project/build/lib/CMakeFiles/edit_cache.dir
+/root/EmbeddedSystems/morse_code_project/build/lib/CMakeFiles/rebuild_cache.dir
+/root/EmbeddedSystems/morse_code_project/build/src/CMakeFiles/Executable.dir
+/root/EmbeddedSystems/morse_code_project/build/src/CMakeFiles/edit_cache.dir
+/root/EmbeddedSystems/morse_code_project/build/src/CMakeFiles/rebuild_cache.dir
+/root/EmbeddedSystems/morse_code_project/build/unity/CMakeFiles/test.dir
+/root/EmbeddedSystems/morse_code_project/build/unity/CMakeFiles/edit_cache.dir
+/root/EmbeddedSystems/morse_code_project/build/unity/CMakeFiles/rebuild_cache.dir

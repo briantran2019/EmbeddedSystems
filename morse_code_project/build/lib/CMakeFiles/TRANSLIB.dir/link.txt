@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTRANSLIB.a CMakeFiles/TRANSLIB.dir/translate.c.o CMakeFiles/TRANSLIB.dir/devmem.c.o CMakeFiles/TRANSLIB.dir/blink.c.o
+/usr/bin/ranlib libTRANSLIB.a
